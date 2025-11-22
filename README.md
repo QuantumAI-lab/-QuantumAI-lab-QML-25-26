@@ -4,7 +4,7 @@
 
 📅 **Schedule**. Every Saturday, 20.00–22.00 EET (Cairo Time)  
 📺 **Full Playlist**. https://youtube.com/playlist?list=PLbzgihkqSogoAmQAa3BONV1NhK-0k5Rqh&si=Q5JNmE3X2yF7b2nk  
-📆 **Next Live Session**. https://calendar.app.google/QsHKPik3DE3DYrZF8
+📆 **Next Live Session**. https://calendar.app.google/QsHKPik3DE3DYrZF8 
 🎓 **Language**. Arabic  
 
 ---
