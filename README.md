@@ -25,13 +25,12 @@ Each session is two hours and delivered live on the scheduled date. Recordings w
 3. **Single-Qubit Gates and Multi-Qubit Systems**  
 4. **Quantum Circuits and Measurement Outcomes**  
 5. **Quantum Communication Protocols. Teleportation and Superdense Coding**  
-6. **Quantum Cryptography Protocols. BB84 and BB92**  
-7. **Early Quantum Algorithms. Deutsch, Bernstein.Vazirani, and Simon**  
-8. **Grover’s Algorithm. Quantum Search and Amplitude Amplification**  
-9. **Quantum Fourier Transform (QFT)**  
-10. **Quantum Phase Estimation (QPE)**  
-11. **Shor’s Algorithm. Factoring with Quantum Period Finding**  
-12. **Quantum Error Correction and Future Directions**
+6. **Early Quantum Algorithms. Deutsch, Bernstein.Vazirani, and Simon**  
+7. **Grover’s Algorithm. Quantum Search and Amplitude Amplification**  
+8. **Quantum Fourier Transform (QFT)**  
+9. **Quantum Phase Estimation (QPE)**  
+10. **Shor’s Algorithm. Factoring with Quantum Period Finding**  
+11. **Quantum Error Correction and Future Directions**
 
 ---
 
