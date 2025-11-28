@@ -1,7 +1,7 @@
 # Quantum AI Lab Tutorials 2025  
 ## Session 1. Foundations of Quantum Computing and Linear Algebra Review
 
-📅 **Date**. November 15th, 2025  
+📅 **Date**. November 15, 2025  
 🕗 **Time**. 20.00–22.00 EET (Cairo Time)  
 🎥 **Session Recording**. https://www.youtube.com/watch?v=JKmGdgNrgD4&t=1s  
 📍 **Language**. Arabic  

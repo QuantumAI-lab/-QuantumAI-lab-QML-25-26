@@ -1,41 +1,41 @@
 # Quantum AI Lab Tutorials 2025  
-## Session 2. Quantum States and Measurement Basics
+## Session 3. Single-Qubit Gates and Measurement
 
-📅 **Date**. November 22, 2025 (Saturday)  
+📅 **Date**. November 29th, 2025 (Saturday)  
 🕗 **Time**. 20.00–22.00 EET (Cairo Time)  
-🎥 **Session Recording**. https://www.youtube.com/watch?v=GxLiXOSm1b0  
+🎥 **Session Recording**. TBA  
 📍 **Language**. Arabic  
 
 ---
 
 ## 📘 Session Overview  
 
-This session continues the Quantum AI Lab Tutorials 2025 series. It introduces participants to the fundamental structure of quantum states and the principles of quantum measurement. The content builds directly on earlier foundational material. It offers a smooth transition toward understanding how qubits behave and how information is extracted from quantum systems.
+This session continues the Quantum AI Lab Tutorials 2025 series. It focuses on the study of fundamental quantum gates (X, Y, Z, H, S, T), rotation gates, visualization on the Bloch sphere, and the implementation of basic one-qubit circuits.
 
 ---
 
 ## 🧠 What You Will Learn  
 
-This session answers essential questions about quantum states and builds practical intuition.
+This session covers the building blocks of quantum circuits.
 
-### 🔹 Qubits and Superposition  
-Discover how qubits represent information. Learn how superposition defines their behavior.
+### 🔹 Fundamental Quantum Gates
+Study of standard single-qubit gates including X, Y, Z, H, S, and T gates.
 
-### 🔹 Dirac Notation  
-Learn how quantum states are expressed compactly through bra–ket notation.
+### 🔹 Rotation Gates
+Understanding rotation operators and their effect on quantum states.
 
-### 🔹 Measurement Postulates  
-Understand how measurement works in quantum mechanics. Explore how probabilities arise and how states collapse.
+### 🔹 Bloch Sphere Visualization
+Visualizing quantum states and gate operations on the Bloch sphere.
 
-### 🔹 Practical Examples  
-Work through hands-on examples involving single qubit states. Perform probability calculations that reinforce measurement concepts.
+### 🔹 Circuit Implementation
+Implementation of basic one-qubit circuits to reinforce theoretical concepts.
 
 ---
 
 ## 🎓 Delivered By  
 
 - **Coordinator**. Abdelrahman Elsayed, Coordinator of Quantum AI Labs QML Track  
-- **Instructor**. Eng. Omar Sobhy, AQC Core Team Member, Director of Digital Communication at EGQCC  
+- **Instructor**. Abdelrahman Elsayed, Coordinator of Quantum AI Labs QML Track  
 
 ---
 
@@ -66,4 +66,3 @@ Join our community. Explore the GitHub repository for session material, hands-on
 
 ### 🏷️ Tags  
 quantum computing, quantum education, artificial intelligence, innovation, quantum physics, learning, Egypt, quantum algorithms
-
