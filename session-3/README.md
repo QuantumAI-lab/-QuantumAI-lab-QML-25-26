@@ -3,7 +3,7 @@
 
 📅 **Date**. November 29th, 2025 (Saturday)  
 🕗 **Time**. 20.00–22.00 EET (Cairo Time)  
-🎥 **Session Recording**. TBA  
+🎥 **Session Recording**. https://www.youtube.com/watch?v=gtqMJ95ET1E&list=PLbzgihkqSogoAmQAa3BONV1NhK-0k5Rqh&index=1&t=604s 
 📍 **Language**. Arabic  
 
 ---
