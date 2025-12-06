@@ -8,3 +8,4 @@ pylatexenc
 jupyter
 notebook
 ipykernel
+sympy
